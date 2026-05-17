@@ -11,5 +11,19 @@ A beginner-friendly Python command line project.
 
 ## Run Project
 
-```bash
+```
 python app.py
+```
+## Technologies Used
+Python
+JSON
+---
+
+# How to Run
+
+## Step 1
+Install Python from:
+
+```text
+https://www.python.org/downloads/
+
